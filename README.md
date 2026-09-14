@@ -33,7 +33,7 @@ Open for technical discussions, research collaborations, and exciting opportunit
 | **AI & Computer Vision** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 | **Databases** | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Tools & Environments** | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
-
+| **CS Fundamentals** | ![OOP](https://img.shields.io/badge/-OOP-374151?style=flat) ![Data Structures](https://img.shields.io/badge/-Data%20Structures-1F2937?style=flat) ![Algorithms](https://img.shields.io/badge/-Algorithms-111827?style=flat) ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-4B5563?style=flat) ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-6B7280?style=flat) |
 ---
 
 ## 📊 GitHub Stats
