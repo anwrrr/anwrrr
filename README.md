@@ -38,19 +38,18 @@ Open for technical discussions, research collaborations, and exciting opportunit
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 2%;">
-  <picture style="width: 70%;">
-    <source srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=anwrrr&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=anwrrr&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=anwrrr&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true"/>
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=anwrrr&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=anwrrr&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anwrrr&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" height="192" alt="GitHub Stats" />
   </picture>
-
-  <picture style="width: 28%;">
-    <source srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=anwrrr&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=anwrrr&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=8" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=anwrrr&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=8"/>
+  <picture>
+    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anwrrr&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anwrrr&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=8" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anwrrr&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
   </picture>
-</div>
+</p>
 
 ### 🚀 Featured Projects
 
