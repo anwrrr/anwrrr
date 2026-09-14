@@ -55,7 +55,7 @@ Open for technical discussions, research collaborations, and exciting opportunit
 
 | Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---:|
-| **[Recommendy](https://github.com/anwrrr/Recommendy)** | Personalized recommendation system developed as a graduation project | `C#` `.NET` | [View Repo](https://github.com/anwrrr/Recommendy) |
+| **[Recommendy](https://github.com/anwrrr/Recommendy)** | Personalized recommendation system developed as a graduation project | `C#` `.NET`ASP.NET Core EF Core SQL Server Ollama LLM SignalR Stripe | [View Repo](https://github.com/anwrrr/Recommendy) |
 | **[Gym-Coach](https://github.com/anwrrr/Gym-Coach)** | AI-powered workout assistant utilizing computer vision to track exercises & reps in real time | `Python` `Computer Vision` `AI` | [View Repo](https://github.com/anwrrr/Gym-Coach) |
 | **[Sign-Language-Recognition](https://github.com/anwrrr/Sign-language-Recognition)** | Deep learning system for gesture and sign language classification | `Python` `Jupyter` `AI` | [View Repo](https://github.com/anwrrr/Sign-language-Recognition) |
 | **[Sphinx-Byte](https://github.com/anwrrr/Sphinx-Byte)** | Web development graduation project for Digital Egypt Pioneers Initiative (DEPI) | `HTML` `CSS` `Web` | [View Repo](https://github.com/anwrrr/Sphinx-Byte) |
