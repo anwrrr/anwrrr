@@ -39,9 +39,9 @@ Open for technical discussions, research collaborations, and exciting opportunit
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=anwrrr&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=anwrrr&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anwrrr&show_icons=true&bg_color=00000000&text_color=58a6ff&hide_border=true" height="192" alt="GitHub Stats" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=anwrrr&show_icons=true&include_all_commits=true&number_format=long&custom_title=Public%20GitHub%20Stats&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=anwrrr&show_icons=true&include_all_commits=true&number_format=long&custom_title=Public%20GitHub%20Stats&bg_color=00000000&text_color=58a6ff&hide_border=true" media="(prefers-color-scheme: light)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anwrrr&show_icons=true&include_all_commits=true&number_format=long&custom_title=Public%20GitHub%20Stats&bg_color=00000000&text_color=58a6ff&hide_border=true" height="192" alt="Public GitHub Stats" />
   </picture>
   <picture>
     <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anwrrr&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)"/>
@@ -49,6 +49,19 @@ Open for technical discussions, research collaborations, and exciting opportunit
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anwrrr&layout=compact&bg_color=00000000&text_color=58a6ff&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
   </picture>
 </p>
+
+#### Verified totals, including private activity (2 October 2026)
+
+| Metric | Total |
+|:---|---:|
+| Stars earned | 11 |
+| Authored commits, all time | 1,169 |
+| Pull requests opened | 51 |
+| Issues opened | 0 |
+| Contribution events | 572 |
+| Repositories contributed to | 1 |
+
+The live cards above use public data. These private-inclusive totals are a dated snapshot and do not reveal private repository details.
 
 ### 🚀 Featured Projects
 
